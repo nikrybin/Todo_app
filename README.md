@@ -5,5 +5,7 @@ TODO app
 Используемые технологи: React, Bootstrap, Babel, Webpack.
 
 Скриншоты в папке screenshots
+
 В папке dist выходные файлы Webpack + Babel
+
 В папках src и public файлы React
