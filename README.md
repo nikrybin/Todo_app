@@ -1,11 +1,11 @@
-TODO app
+#TODO app
 
-Посмотреть само приложение можно по ссылке: https://nikrybin.github.io/todo_app/dist/index.html
+Посмотреть само приложение можно по ссылке: __https://nikrybin.github.io/todo_app/dist/index.html__
 
-Используемые технологи: React, Bootstrap, Babel, Webpack.
+Используемые технологи: __React, Bootstrap, Babel, Webpack__.
 
-Скриншоты в папке screenshots
+Скриншоты в папке __screenshots__
 
-В папке dist выходные файлы Webpack + Babel
+В папке __dist__ выходные файлы __Webpack + Babel__
 
-В папках src и public файлы React
+В папках __src__ и __public__ файлы __React__
