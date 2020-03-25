@@ -1,6 +1,6 @@
 <h1>TODO app</h1>
 
-Посмотреть само приложение можно по ссылке: __https://todoappbynikribin.netlify.com/__
+Посмотреть само приложение можно по ссылке: __https://todoappbynikrybin.netlify.com/__
 
 Используемые технологи: 
 * __React__
