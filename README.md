@@ -8,9 +8,7 @@
 * __Babel__
 * __Webpack__
 
-В папке __dist__ выходные файлы __Webpack + Babel__
 
-В папках __src__ и __public__ файлы __React__
 
 <h3>Скриншоты</h3>
 
